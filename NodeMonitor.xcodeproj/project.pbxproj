@@ -11,13 +11,17 @@
 		EA0387011E936419003A4EB9 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA0387001E936419003A4EB9 /* MapKit.framework */; };
 		EA15DECA1E9347C90007A6DD /* JenkinsNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA15DEC91E9347C90007A6DD /* JenkinsNode.swift */; };
 		EA15DECE1E934D8A0007A6DD /* TeamMember.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA15DECD1E934D8A0007A6DD /* TeamMember.swift */; };
-		EA15DED01E934EF70007A6DD /* TeamPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA15DECF1E934EF70007A6DD /* TeamPageViewController.swift */; };
 		EA5C99611E92D0C400BFF36D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5C99601E92D0C400BFF36D /* AppDelegate.swift */; };
 		EA5C99661E92D0C400BFF36D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA5C99641E92D0C400BFF36D /* Main.storyboard */; };
 		EA5C99681E92D0C400BFF36D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA5C99671E92D0C400BFF36D /* Assets.xcassets */; };
 		EA5C996B1E92D0C400BFF36D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA5C99691E92D0C400BFF36D /* LaunchScreen.storyboard */; };
 		EA5C99761E92D0C400BFF36D /* NodeMonitorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5C99751E92D0C400BFF36D /* NodeMonitorTests.swift */; };
 		EA5C99811E92D0C400BFF36D /* NodeMonitorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5C99801E92D0C400BFF36D /* NodeMonitorUITests.swift */; };
+		EA78D72C1E949A6C00AFC200 /* TeamList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D72B1E949A6C00AFC200 /* TeamList.swift */; };
+		EA78D72E1E94A12E00AFC200 /* TeamTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D72D1E94A12E00AFC200 /* TeamTableViewCell.swift */; };
+		EA78D7301E954E1900AFC200 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D72F1E954E1900AFC200 /* MapViewController.swift */; };
+		EA78D7341E955F6A00AFC200 /* TrapezeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D7331E955F6A00AFC200 /* TrapezeViewController.swift */; };
+		EA78D7361E95613200AFC200 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA78D7351E95613200AFC200 /* WebKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,7 +46,6 @@
 		EA0387001E936419003A4EB9 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		EA15DEC91E9347C90007A6DD /* JenkinsNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JenkinsNode.swift; sourceTree = "<group>"; };
 		EA15DECD1E934D8A0007A6DD /* TeamMember.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeamMember.swift; sourceTree = "<group>"; };
-		EA15DECF1E934EF70007A6DD /* TeamPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeamPageViewController.swift; sourceTree = "<group>"; };
 		EA5C995D1E92D0C400BFF36D /* NodeMonitor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NodeMonitor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA5C99601E92D0C400BFF36D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EA5C99651E92D0C400BFF36D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -55,6 +58,11 @@
 		EA5C997C1E92D0C400BFF36D /* NodeMonitorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NodeMonitorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA5C99801E92D0C400BFF36D /* NodeMonitorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NodeMonitorUITests.swift; sourceTree = "<group>"; };
 		EA5C99821E92D0C400BFF36D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA78D72B1E949A6C00AFC200 /* TeamList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeamList.swift; sourceTree = "<group>"; };
+		EA78D72D1E94A12E00AFC200 /* TeamTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeamTableViewCell.swift; sourceTree = "<group>"; };
+		EA78D72F1E954E1900AFC200 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		EA78D7331E955F6A00AFC200 /* TrapezeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrapezeViewController.swift; sourceTree = "<group>"; };
+		EA78D7351E95613200AFC200 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA78D7361E95613200AFC200 /* WebKit.framework in Frameworks */,
 				EA0387011E936419003A4EB9 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -86,6 +95,7 @@
 		EA0386FF1E936419003A4EB9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				EA78D7351E95613200AFC200 /* WebKit.framework */,
 				EA0387001E936419003A4EB9 /* MapKit.framework */,
 			);
 			name = Frameworks;
@@ -116,14 +126,17 @@
 			isa = PBXGroup;
 			children = (
 				EA5C99601E92D0C400BFF36D /* AppDelegate.swift */,
-				EA15DECF1E934EF70007A6DD /* TeamPageViewController.swift */,
 				EA0386FD1E935CAC003A4EB9 /* TeamTableViewController.swift */,
 				EA5C99641E92D0C400BFF36D /* Main.storyboard */,
+				EA78D72F1E954E1900AFC200 /* MapViewController.swift */,
 				EA15DECD1E934D8A0007A6DD /* TeamMember.swift */,
 				EA15DEC91E9347C90007A6DD /* JenkinsNode.swift */,
 				EA5C99671E92D0C400BFF36D /* Assets.xcassets */,
 				EA5C99691E92D0C400BFF36D /* LaunchScreen.storyboard */,
 				EA5C996C1E92D0C400BFF36D /* Info.plist */,
+				EA78D72B1E949A6C00AFC200 /* TeamList.swift */,
+				EA78D72D1E94A12E00AFC200 /* TeamTableViewCell.swift */,
+				EA78D7331E955F6A00AFC200 /* TrapezeViewController.swift */,
 			);
 			path = NodeMonitor;
 			sourceTree = "<group>";
@@ -280,11 +293,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA15DED01E934EF70007A6DD /* TeamPageViewController.swift in Sources */,
+				EA78D7341E955F6A00AFC200 /* TrapezeViewController.swift in Sources */,
 				EA0386FE1E935CAC003A4EB9 /* TeamTableViewController.swift in Sources */,
+				EA78D72C1E949A6C00AFC200 /* TeamList.swift in Sources */,
 				EA15DECA1E9347C90007A6DD /* JenkinsNode.swift in Sources */,
+				EA78D72E1E94A12E00AFC200 /* TeamTableViewCell.swift in Sources */,
 				EA15DECE1E934D8A0007A6DD /* TeamMember.swift in Sources */,
 				EA5C99611E92D0C400BFF36D /* AppDelegate.swift in Sources */,
+				EA78D7301E954E1900AFC200 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "62757546A52F4BF2CEF8AFA249CBCE124D43C33F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BD6EFE5102D9EA7E925C5307AC363EFEE13AEBBF" : 9223372036854775807,
+    "62757546A52F4BF2CEF8AFA249CBCE124D43C33F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "186D16A9-8DE3-4FC1-AB05-90C6EBDBF9EF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BD6EFE5102D9EA7E925C5307AC363EFEE13AEBBF" : "",
+    "62757546A52F4BF2CEF8AFA249CBCE124D43C33F" : "NodeMonitor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NodeMonitor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NodeMonitor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nicole10hart\/NodeMonitor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "62757546A52F4BF2CEF8AFA249CBCE124D43C33F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nicole10hart\/BNR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BD6EFE5102D9EA7E925C5307AC363EFEE13AEBBF"
+    }
+  ]
+}
