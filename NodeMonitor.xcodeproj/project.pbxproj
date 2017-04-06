@@ -22,6 +22,7 @@
 		EA78D7301E954E1900AFC200 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D72F1E954E1900AFC200 /* MapViewController.swift */; };
 		EA78D7341E955F6A00AFC200 /* TrapezeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D7331E955F6A00AFC200 /* TrapezeViewController.swift */; };
 		EA78D7361E95613200AFC200 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA78D7351E95613200AFC200 /* WebKit.framework */; };
+		EA78D73A1E95854300AFC200 /* JenkinsNodeCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D7391E95854300AFC200 /* JenkinsNodeCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		EA78D72F1E954E1900AFC200 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		EA78D7331E955F6A00AFC200 /* TrapezeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrapezeViewController.swift; sourceTree = "<group>"; };
 		EA78D7351E95613200AFC200 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		EA78D7391E95854300AFC200 /* JenkinsNodeCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JenkinsNodeCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				EA5C99601E92D0C400BFF36D /* AppDelegate.swift */,
 				EA0386FD1E935CAC003A4EB9 /* TeamTableViewController.swift */,
 				EA5C99641E92D0C400BFF36D /* Main.storyboard */,
+				EA78D7391E95854300AFC200 /* JenkinsNodeCollectionViewController.swift */,
 				EA78D72F1E954E1900AFC200 /* MapViewController.swift */,
 				EA15DECD1E934D8A0007A6DD /* TeamMember.swift */,
 				EA15DEC91E9347C90007A6DD /* JenkinsNode.swift */,
@@ -293,6 +296,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA78D73A1E95854300AFC200 /* JenkinsNodeCollectionViewController.swift in Sources */,
 				EA78D7341E955F6A00AFC200 /* TrapezeViewController.swift in Sources */,
 				EA0386FE1E935CAC003A4EB9 /* TeamTableViewController.swift in Sources */,
 				EA78D72C1E949A6C00AFC200 /* TeamList.swift in Sources */,
